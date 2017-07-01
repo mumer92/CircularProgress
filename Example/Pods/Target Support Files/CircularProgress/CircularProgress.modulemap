@@ -1,0 +1,6 @@
+framework module CircularProgress {
+  umbrella header "CircularProgress-umbrella.h"
+
+  export *
+  module * { export * }
+}

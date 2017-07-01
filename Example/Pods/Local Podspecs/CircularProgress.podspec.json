@@ -1,0 +1,22 @@
+{
+  "name": "CircularProgress",
+  "version": "0.1.0",
+  "summary": "A short description of CircularProgress.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Muhammad Umer/CircularProgress",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Muhammad Umer": "mumer92@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Muhammad Umer/CircularProgress.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CircularProgress/Classes/**/*"
+}

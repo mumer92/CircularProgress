@@ -1,0 +1,6 @@
+framework module Pods_CircularProgress_Tests {
+  umbrella header "Pods-CircularProgress_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
