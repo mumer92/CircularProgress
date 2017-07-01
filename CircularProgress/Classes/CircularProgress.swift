@@ -9,7 +9,7 @@
 import UIKit
 
 @IBDesignable
-class CircularProgress: UIView {
+public class CircularProgress: UIView {
     
     // MARK - DesignableProperties
     
