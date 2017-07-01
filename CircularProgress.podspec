@@ -17,9 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'Swift 3 library that creates a CircularProgress that animates while its bring drawn to screen with the ration given by and uses userdefines colors for inner and outer filling'
 
   s.homepage         = 'https://github.com/mumer92/CircularProgress.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
