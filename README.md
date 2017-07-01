@@ -1,6 +1,6 @@
 # CircularProgress
 
-[![CI Status](http://img.shields.io/travis/Muhammad Umer/CircularProgress.svg?style=flat)](https://travis-ci.org/Muhammad Umer/CircularProgress)
+[![CI Status](http://img.shields.io/travis/mumer92/CircularProgress.svg?style=flat)](https://travis-ci.org/mumer92/CircularProgress)
 [![Version](https://img.shields.io/cocoapods/v/CircularProgress.svg?style=flat)](http://cocoapods.org/pods/CircularProgress)
 [![License](https://img.shields.io/cocoapods/l/CircularProgress.svg?style=flat)](http://cocoapods.org/pods/CircularProgress)
 [![Platform](https://img.shields.io/cocoapods/p/CircularProgress.svg?style=flat)](http://cocoapods.org/pods/CircularProgress)
