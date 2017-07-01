@@ -57,7 +57,7 @@ public class CircularProgress: UIView {
     
     // MARK - UIView
     
-    override func draw(_ rect: CGRect) {
+    override public func draw(_ rect: CGRect) {
         drawPie()
     }
     
@@ -118,7 +118,7 @@ public class CircularProgress: UIView {
         return intervals
     }
     
-    func animatePie() {
+    public func animatePie() {
         if ratio > 0 {
             animateFillWithDuration(timeInterval)
         }
